@@ -1,0 +1,162 @@
+[
+  {
+    "id": 1,
+    "title": "Academic",
+    "description": "Latest updates on academic activities, courses, and educational initiatives at Thapar University",
+    "detailedDescription": "The university has introduced several new undergraduate and postgraduate programs aligned with industry demands. The curriculum has been revamped to include more practical training and industry exposure. New smart classrooms have been set up across departments to facilitate hybrid learning.",
+    "image": "https://images.pexels.com/photos/2982449/pexels-photo-2982449.jpeg",
+    "publisher": "Manmeet"
+  },
+  {
+    "id": 2, 
+    "title": "Society",
+    "description": "News and events from various student societies and clubs on campus",
+    "detailedDescription": "The Cultural Society organized an inter-college dance competition with participation from over 20 colleges. The Technical Society conducted workshops on emerging technologies like blockchain and AR/VR. The Literary Society hosted renowned authors for interactive sessions with students.",
+    "image": "https://images.pexels.com/photos/1205651/pexels-photo-1205651.jpeg",
+    "publisher": "Bhawneet"
+  },
+  {
+    "id": 3,
+    "title": "Fest",
+    "description": "Coverage of cultural, technical and other festivals celebrated at Thapar",
+    "detailedDescription": "The annual technical fest SATURNALIA saw record participation this year with over 5000 students from across India. Events included robotics competitions, coding challenges, and technical paper presentations. Cultural performances by famous artists were major highlights.",
+    "image": "https://images.pexels.com/photos/267885/pexels-photo-267885.jpeg",
+    "publisher": "Praful"
+  },
+  {
+    "id": 4,
+    "title": "Academic",
+    "description": "Research breakthroughs and academic achievements of Thapar students and faculty",
+    "detailedDescription": "Dr. Singh from Computer Science department received a prestigious grant for AI research. Two PhD scholars published papers in top international journals. The university secured important patents in renewable energy technology.",
+    "image": "https://images.pexels.com/photos/256541/pexels-photo-256541.jpeg",
+    "publisher": "Hernoor"
+  },
+  {
+    "id": 5,
+    "title": "Society",
+    "description": "Highlights from technical societies and innovation cells",
+    "detailedDescription": "The Robotics Society successfully developed an autonomous delivery robot for campus use. The Coding Club organized a 36-hour hackathon focused on solving real-world problems. The Innovation Cell mentored 10 student startups that received seed funding.",
+    "image": "https://images.pexels.com/photos/2774556/pexels-photo-2774556.jpeg",
+    "publisher": "Manmeet"
+  },
+  {
+    "id": 6,
+    "title": "Fest",
+    "description": "Annual fest celebrations and inter-college competitions",
+    "detailedDescription": "FROSH 2023 welcomed new students with exciting events and performances. The sports fest included tournaments in cricket, football, basketball and athletics. Cultural nights showcased diverse talents through music, dance and theatrical performances.",
+    "image": "https://images.pexels.com/photos/976866/pexels-photo-976866.jpeg",
+    "publisher": "Bhawneet"
+  },
+  {
+    "id": 7,
+    "title": "Academic",
+    "description": "New academic partnerships and collaboration announcements",
+    "detailedDescription": "Thapar University signed MoUs with leading international universities for student exchange programs. Industry partnerships were established with major tech companies for internships and placements. New research collaborations initiated in emerging technology areas.",
+    "image": "https://images.pexels.com/photos/1181671/pexels-photo-1181671.jpeg",
+    "publisher": "Praful"
+  },
+  {
+    "id": 8,
+    "title": "Society",
+    "description": "Cultural society events and performances on campus",
+    "detailedDescription": "The Dance Club organized workshops with professional choreographers. The Music Society's concert featured fusion performances blending classical and contemporary styles. The Drama Club staged an original production addressing social issues.",
+    "image": "https://images.pexels.com/photos/2774572/pexels-photo-2774572.jpeg",
+    "publisher": "Hernoor"
+  },
+  {
+    "id": 9,
+    "title": "Fest",
+    "description": "Sports festivals and athletic achievements at Thapar",
+    "detailedDescription": "The university teams won multiple medals in inter-university championships. Annual sports meet saw participation from all departments in various indoor and outdoor events. New sports facilities including a swimming pool and indoor courts were inaugurated.",
+    "image": "https://images.pexels.com/photos/3184435/pexels-photo-3184435.jpeg",
+    "publisher": "Manmeet"
+  },
+  {
+    "id": 10,
+    "title": "Academic",
+    "description": "Campus infrastructure developments and academic facility updates",
+    "detailedDescription": "New academic block with state-of-the-art laboratories was inaugurated. The central library was renovated with digital resources and study spaces. Smart classrooms were equipped with latest audio-visual technology for enhanced learning experience.",
+    "image": "https://images.pexels.com/photos/207691/pexels-photo-207691.jpeg",
+    "publisher": "Bhawneet"
+  },
+  {
+    "id": 11,
+    "title": "Society",
+    "description": "Robotics club launches new AI project initiative",
+    "detailedDescription": "The project aims to develop intelligent robots for campus security and assistance. Students are working with advanced technologies including computer vision and machine learning. Industry experts are mentoring teams on latest robotics trends.",
+    "image": "https://images.pexels.com/photos/8566472/pexels-photo-8566472.jpeg",
+    "publisher": "Praful"
+  },
+  {
+    "id": 12,
+    "title": "Academic",
+    "description": "International conference on sustainable engineering hosted at Thapar",
+    "detailedDescription": "Over 200 researchers from 20 countries presented their work. Keynote speeches by renowned experts highlighted future challenges and opportunities. Best paper awards were presented in multiple categories.",
+    "image": "https://images.pexels.com/photos/2774556/pexels-photo-2774556.jpeg",
+    "publisher": "Hernoor"
+  },
+  {
+    "id": 13,
+    "title": "Fest",
+    "description": "Annual music festival brings top artists to campus",
+    "detailedDescription": "The event featured performances by famous bands and solo artists. Student bands got opportunity to perform on the big stage. The two-day festival included various music competitions and workshops.",
+    "image": "https://images.pexels.com/photos/1763075/pexels-photo-1763075.jpeg",
+    "publisher": "Manmeet"
+  },
+  {
+    "id": 14,
+    "title": "Society",
+    "description": "Photography club hosts national-level competition",
+    "detailedDescription": "The theme focused on capturing campus life and architecture. Professional photographers conducted workshops on advanced techniques. Winning entries were displayed in a week-long exhibition at the central library.",
+    "image": "https://images.pexels.com/photos/1787236/pexels-photo-1787236.jpeg",
+    "publisher": "Bhawneet"
+  },
+  {
+    "id": 15,
+    "title": "Academic",
+    "description": "New research center for quantum computing inaugurated",
+    "detailedDescription": "The facility includes advanced quantum processors and simulators. Research projects focus on quantum algorithms and cryptography. Collaborations established with leading quantum computing companies.",
+    "image": "https://images.pexels.com/photos/325229/pexels-photo-325229.jpeg",
+    "publisher": "Praful"
+  },
+  {
+    "id": 16,
+    "title": "Fest",
+    "description": "Engineering design competition draws participants nationwide",
+    "detailedDescription": "Teams presented innovative solutions to real-world problems. Projects focused on sustainable development and social impact. Industry experts judged entries and provided valuable feedback.",
+    "image": "https://images.pexels.com/photos/159844/cellular-education-classroom-159844.jpeg",
+    "publisher": "Hernoor"
+  },
+  {
+    "id": 17,
+    "title": "Society",
+    "description": "Drama club's annual production receives critical acclaim",
+    "detailedDescription": "The original play addressed contemporary social issues. Professional theater artists mentored students in acting and direction. Multiple shows were performed to packed audiences including community members.",
+    "image": "https://images.pexels.com/photos/11437635/pexels-photo-11437635.jpeg",
+    "publisher": "Manmeet"
+  },
+  {
+    "id": 18,
+    "title": "Academic",
+    "description": "Thapar launches new AI and Data Science program",
+    "detailedDescription": "The curriculum was designed in consultation with industry experts. State-of-the-art computing labs were set up for practical training. Industry partnerships ensure internship and placement opportunities.",
+    "image": "https://images.pexels.com/photos/5926382/pexels-photo-5926382.jpeg",
+    "publisher": "Bhawneet"
+  },
+  {
+    "id": 19,
+    "title": "Society",
+    "description": "Environmental club initiates campus sustainability project",
+    "detailedDescription": "The project aims to make campus carbon neutral by 2025. Initiatives include solar power installation and waste management. Student volunteers conduct regular awareness campaigns.",
+    "image": "https://images.pexels.com/photos/3850526/pexels-photo-3850526.jpeg",
+    "publisher": "Praful"
+  },
+  {
+    "id": 20,
+    "title": "Fest",
+    "description": "Innovation hackathon showcases student entrepreneurship",
+    "detailedDescription": "48-hour non-stop coding and prototyping challenge. Teams developed solutions for industry-sponsored problems. Winning teams received funding and incubation support.",
+    "image": "https://images.pexels.com/photos/7096/people-woman-coffee-meeting.jpg",
+    "publisher": "Hernoor"
+  }
+]
